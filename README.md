@@ -18,6 +18,8 @@ The Weather App allows users to retrieve and display real-time weather informati
   - Pressure (in hPa)
   - Data Age
 
+- **Description Update**: Modify weather descriptions directly within the table.
+
 - **Search Functionality**: Search for a specific city by name. 
   - Highlight the corresponding row in the weather data table.
   - Clear the search input and show "No Data" if no matching city is found.
@@ -26,6 +28,6 @@ The Weather App allows users to retrieve and display real-time weather informati
   - Delete weather data rows to update the display and underlying data storage.
 
 ## Live Demo
-You can view the live version of the Weather App here: [Live Demo](https://admirable-otter-10c27a.netlify.app/)
+You can view the live version of the Weather App here: [Live Demo](https://gleeful-chimera-1a1e5e.netlify.app/)
 
 
